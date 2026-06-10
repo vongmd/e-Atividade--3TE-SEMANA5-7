@@ -1,0 +1,6 @@
+Questao,Modelo_Baseline,MAE,RMSE,R2
+Q1 - Incidência,Baseline Naïve,0.06,0.55,0.9701
+Q1 - Incidência,"ARIMA (1,1,1)",9.07,9.6,-7.999
+Q1 - Incidência,Random Forest,1.72,5.75,-2.234
+Q2 - Mortalidade,Regressão Linear Múltipla,148.65,150.08,-51.6528
+Q2 - Mortalidade,Regressão Polinomial G2,209.77,210.77,-102.8565
