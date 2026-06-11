@@ -1,4 +1,4 @@
-# Infraestrutura de Modelação Preditiva e Suporte à Decisão (COVID-19)
+# Infraestrutura de Modelação Preditiva e Suporte à Decisão — COVID-19
 ## Unidade Curricular: Sistemas de Business Intelligence — Semanas 13-15
 
 Este repositório contém a solução modular de engenharia de dados e modelação estatística desenvolvida em Python. O objetivo do projeto é processar os dados históricos da pandemia, treinar algoritmos preditivos e extrair matrizes de dados e relatórios gráficos otimizados para consumo direto e visualização analítica.
